@@ -59,8 +59,8 @@ footer {
 }
 
 main {
-    padding-left: 300px;
-    padding-right: 300px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 .logo img {
