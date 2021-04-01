@@ -67,3 +67,7 @@ main {
     width: 150px;
     height: 150px;
 }
+
+body {
+    margin: 0px;
+}
